@@ -1,5 +1,9 @@
 import React from 'react';
 import './index.css';
+import SocialDist from '../../utils/images/SocialDistance2.png';
+import QuizPanda from '../../utils/images/quizPanda.png';
+import WeatherDash from '../../utils/images/WeatherDash.png';
+import NYT from '../../utils/images/NYT.png';
 
 function Portfolio() {
     return (
@@ -7,7 +11,7 @@ function Portfolio() {
             <div className="row">
                 <div className="col-md-6 d-flex justify-content-center projects">
                     <div className="card">
-                        <img src="../../utils/images/SocialDistance2.png" className="card-img-top cardImg"
+                        <img src={SocialDist} className="card-img-top cardImg"
                             alt="Screen shot of Social Distance app." />
                         <div className="card-body bg-dark">
                             <h5 className="card-title">Social Distance</h5>
@@ -22,7 +26,7 @@ function Portfolio() {
                 </div>
                 <div className="col-md-6 d-flex justify-content-center projects">
                     <div className="card">
-                        <img src="../../utils/images/quizPanda.png" className="card-img-top cardImg"
+                        <img src={QuizPanda} className="card-img-top cardImg"
                             alt="Screen shot of Quiz Panda app." />
                         <div className="card-body bg-dark">
                             <h5 className="card-title">Quiz Panda</h5>
@@ -39,7 +43,7 @@ function Portfolio() {
             <div className="row">
                 <div className="col-md-6 d-flex justify-content-center projects">
                     <div className="card">
-                        <img src="../../utils/images/WeatherDash.png" className="card-img-top cardImg"
+                        <img src={WeatherDash} className="card-img-top cardImg"
                             alt="Screen shot of Social Distance app." />
                         <div className="card-body bg-dark">
                             <h5 className="card-title">Weather Dashboard</h5>
@@ -54,7 +58,7 @@ function Portfolio() {
                 </div>
                 <div className="col-md-6 d-flex justify-content-center projects">
                     <div className="card">
-                        <img src="../../utils/images/NYT.png" className="card-img-top cardImg"
+                        <img src={NYT} className="card-img-top cardImg"
                             alt="Screen shot of New Your Times search app." />
                         <div className="card-body bg-dark">
                             <h5 className="card-title">NY Times Article Search</h5>
