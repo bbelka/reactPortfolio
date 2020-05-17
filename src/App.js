@@ -13,9 +13,9 @@ function App() {
     <div>
       <Navbar />
       <Switch>
-        <Route exact path={"/"} component={Jumbotron} />
-        <Route exact path={"/portfolio"} component={Portfolio} />
-        <Route exact path="/about" component={About} />
+        <Route exact path={"/reactPortfolio"} component={Jumbotron} />
+        <Route exact path={"reactPortfolio/portfolio"} component={Portfolio} />
+        <Route exact path={"reactPortfolio/about"} component={About} />
       </Switch>
       {/* <Route exact path ="/" component={HomePage}/> */}
     </div>
