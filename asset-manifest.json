@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.705fcb19.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.ce5afe3b.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.ce5afe3b.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.661971c5.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.661971c5.js.map",
+    "static/js/2.831d6751.chunk.js": "/reactPortfolio/static/js/2.831d6751.chunk.js",
+    "static/js/2.831d6751.chunk.js.map": "/reactPortfolio/static/js/2.831d6751.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.4394bd2f109476feab239e7d2bf8ad06.js": "/reactPortfolio/precache-manifest.4394bd2f109476feab239e7d2bf8ad06.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/main.705fcb19.chunk.css.map": "/reactPortfolio/static/css/main.705fcb19.chunk.css.map",
+    "static/js/2.831d6751.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.831d6751.chunk.js.LICENSE.txt",
+    "static/media/NYT.png": "/reactPortfolio/static/media/NYT.bbb84878.png",
+    "static/media/SocialDistance2.png": "/reactPortfolio/static/media/SocialDistance2.d4565d5d.png",
+    "static/media/WeatherDash.png": "/reactPortfolio/static/media/WeatherDash.d9de30ed.png",
+    "static/media/quizPanda.png": "/reactPortfolio/static/media/quizPanda.b6929990.png",
+    "static/media/index.css": "/reactPortfolio/static/media/—Pngtree—abstract geometric pattern with lines,geometric_1071791.17cfb790.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661971c5.js",
+    "static/js/2.831d6751.chunk.js",
+    "static/css/main.705fcb19.chunk.css",
+    "static/js/main.ce5afe3b.chunk.js"
+  ]
+}
