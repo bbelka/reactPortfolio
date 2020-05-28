@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.705fcb19.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.c8d18a26.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.c8d18a26.chunk.js.map",
+    "main.css": "/reactPortfolio/static/css/main.0d9a6316.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.81e1cf01.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.81e1cf01.chunk.js.map",
     "runtime-main.js": "/reactPortfolio/static/js/runtime-main.661971c5.js",
     "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.661971c5.js.map",
-    "static/js/2.831d6751.chunk.js": "/reactPortfolio/static/js/2.831d6751.chunk.js",
-    "static/js/2.831d6751.chunk.js.map": "/reactPortfolio/static/js/2.831d6751.chunk.js.map",
+    "static/js/2.6545f609.chunk.js": "/reactPortfolio/static/js/2.6545f609.chunk.js",
+    "static/js/2.6545f609.chunk.js.map": "/reactPortfolio/static/js/2.6545f609.chunk.js.map",
     "index.html": "/reactPortfolio/index.html",
-    "precache-manifest.fac1c1eb7c0efaeea18a522b90d66c99.js": "/reactPortfolio/precache-manifest.fac1c1eb7c0efaeea18a522b90d66c99.js",
+    "precache-manifest.a71becadb95cb89c37c9ce89f3c84b96.js": "/reactPortfolio/precache-manifest.a71becadb95cb89c37c9ce89f3c84b96.js",
     "service-worker.js": "/reactPortfolio/service-worker.js",
-    "static/css/main.705fcb19.chunk.css.map": "/reactPortfolio/static/css/main.705fcb19.chunk.css.map",
-    "static/js/2.831d6751.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.831d6751.chunk.js.LICENSE.txt",
+    "static/css/main.0d9a6316.chunk.css.map": "/reactPortfolio/static/css/main.0d9a6316.chunk.css.map",
+    "static/js/2.6545f609.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.6545f609.chunk.js.LICENSE.txt",
+    "static/media/MGR.png": "/reactPortfolio/static/media/MGR.698a2f27.png",
     "static/media/NYT.png": "/reactPortfolio/static/media/NYT.bbb84878.png",
     "static/media/SocialDistance2.png": "/reactPortfolio/static/media/SocialDistance2.d4565d5d.png",
     "static/media/WeatherDash.png": "/reactPortfolio/static/media/WeatherDash.d9de30ed.png",
@@ -20,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.661971c5.js",
-    "static/js/2.831d6751.chunk.js",
-    "static/css/main.705fcb19.chunk.css",
-    "static/js/main.c8d18a26.chunk.js"
+    "static/js/2.6545f609.chunk.js",
+    "static/css/main.0d9a6316.chunk.css",
+    "static/js/main.81e1cf01.chunk.js"
   ]
 }
